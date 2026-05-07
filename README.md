@@ -80,7 +80,7 @@ This portfolio serves as a digital resume and showcase platform for future oppor
 ### 📬 Contact
 Developer: Obsa Sufian
 
-GitHub: @obsa-sufian (github.com)
+GitHub: https://github.com/obsa-sufian
 
 📄 License
 This project is licensed under the MIT License.

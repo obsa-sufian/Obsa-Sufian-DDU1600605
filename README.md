@@ -25,14 +25,53 @@ This project showcases professional skills, academic achievements, and creative 
 ## 📂 Project Structure
 ```
 Obsa-Sufian-DDU1600605/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   └── App.js
-├── package.json
+├── client/                     # React frontend
+│   ├── public/
+│   │   └── index.html
+│   └── src/
+│       ├── assets/             # images, CSS
+│       ├── components/
+│       │   ├── layout/
+│       │   │   ├── Header.js
+│       │   │   ├── Footer.js
+│       │   │   └── Navigation.js
+│       │   ├── sections/
+│       │   │   ├── Home.js
+│       │   │   ├── About.js
+│       │   │   ├── Skills.js
+│       │   │   ├── Projects.js
+│       │   │   └── Contact.js
+│       │   └── projects/       # interactive demos
+│       │       ├── Calculator.js
+│       │       ├── ImageSlider.js
+│       │       ├── TicTacToe.js
+│       │       ├── TodoList.js
+│       │       ├── FollowSpot.js       # uses jQuery
+│       │       ├── ImageMagnifier.js
+│       │       ├── ImageGallery.js
+│       │       └── SimpleMap.js
+│       ├── context/
+│       │   └── ThemeContext.js
+│       ├── services/
+│       │   └── api.js          # fetch/AJAX calls
+│       ├── App.js
+│       ├── App.css
+│       └── index.js
+├── server/                     # Node.js backend
+│   ├── config/
+│   │   └── db.js               # MySQL connection
+│   ├── middleware/
+│   │   └── auth.js             # JWT verification (optional)
+│   ├── routes/
+│   │   └── contact.js
+│   ├── models/
+│   │   └── Contact.js          # DB queries
+│   ├── utils/                  # custom module example
+│   │   └── logger.js
+│   ├── server.js
+│   ├── package.json
+│   └── .env
+├── .gitignore
 └── README.md
 ```
 CodE

@@ -1,0 +1,24 @@
+# Root gitignore for the portfolio repository
+
+# Node modules
+client/node_modules/
+server/node_modules/
+
+# Environment files
+.env
+server/.env
+client/.env
+
+# Build outputs
+client/build/
+
+# Editor and system files
+.DS_Store
+Thumbs.db
+
+# Local git status files
+status.txt
+commit.txt
+
+# Nested git metadata backup
+client/.git_backup

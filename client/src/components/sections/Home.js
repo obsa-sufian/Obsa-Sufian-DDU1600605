@@ -85,12 +85,12 @@ const Home = () => {
             <div className="card-body">
               <h4 className="card-title">Previous work</h4>
               <ul className="project-list">
-                <li>Food Ordering System <span className="project-meta">(C++)</span></li>
-                <li>Pharmacy Management System <span className="project-meta">(Java)</span></li>
-                <li>Bank Management System <span className="project-meta">(Java)</span></li>
-                <li>Alarm Clock Application <span className="project-meta">(Java)</span></li>
-                <li>Client &amp; Server Chat App <span className="project-meta">(Java)</span></li>
-                <li>Pharmacy Management System <span className="project-meta">(HTML5, CSS, JS)</span></li>
+                <li><a href="https://github.com/Obsa-sufian/food-ordering-system" target="_blank" rel="noreferrer">Food Ordering System <span className="project-meta">(C++)</span></a></li>
+                <li><a href="https://github.com/obsa-sufian/Pharmacy-Management-System" target="_blank" rel="noreferrer">Pharmacy Management System <span className="project-meta">(Java)</span></a></li>
+                <li><a href="https://github.com/obsa-sufian/Bank-Management-System" target="_blank" rel="noreferrer">Bank Management System <span className="project-meta">(Java)</span></a></li>
+                <li><a href="https://github.com/obsa-sufian/JavaBank" target="_blank" rel="noreferrer">Alarm Clock Application <span className="project-meta">(Java)</span></a></li>
+                <li><a href="https://github.com/obsa-sufian/Client-Server-Chat-App" target="_blank" rel="noreferrer">Client &amp; Server Chat App <span className="project-meta">(Java)</span></a></li>
+                <li><a href="https://github.com/obsa-sufian/Pharmacy-Management-System" target="_blank" rel="noreferrer">Pharmacy Management System <span className="project-meta">(HTML5, CSS, JS)</span></a></li>
               </ul>
             </div>
           </div>

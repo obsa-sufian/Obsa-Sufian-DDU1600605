@@ -58,21 +58,24 @@ npm start
 npm run build
 ```
 ## 📸 Screenshots
-Homepage
+#Homepage
+
+https://github.com/obsa-sufian/Obsa-Sufian-DDU1600605/blob/main/client/src/images/Home.jpeg
+
+# Projects Section
+
+(https://github.com/obsa-sufian/Obsa-Sufian-DDU1600605/blob/main/client/src/images/ProjectsDemo.jpeg)
+
+# Skills Section
+
 [Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 
-Projects Section
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
+# Form Layouts
 
-Skills Section
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
+https://github.com/obsa-sufian/Obsa-Sufian-DDU1600605/blob/main/client/src/images/FormLayout.jpeg
+# Contact Me
 
-Form Layouts
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
-Contact Me
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
-
+(https://github.com/obsa-sufian/Obsa-Sufian-DDU1600605/blob/main/client/src/images/Contactme.jpeg)
 ### 🎯 Purpose
 This portfolio serves as a digital resume and showcase platform for future opportunities in software development.
 

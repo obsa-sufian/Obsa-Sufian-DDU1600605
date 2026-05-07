@@ -35,7 +35,7 @@ Obsa-Sufian-DDU1600605/
 ├── package.json
 └── README.md
 ```
-Code
+CodE
 
 ---
 

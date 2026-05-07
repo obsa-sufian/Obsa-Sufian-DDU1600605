@@ -14,6 +14,12 @@ const allImages = [
   { id: 11, src: require('../../images/personal2.jpg'), category: 'personal' },
   { id: 12, src: require('../../images/LogoMaker.jpg'), category: 'logos' },
   { id: 13, src: require('../../images/mylogo.jpg'), category: 'logos' },
+  { id: 14, src: require('../../images/Home.jpeg'), category: 'logos' },
+  { id: 15, src: require('../../images/FormLayout.jpeg'), category: 'logos' },
+  { id: 16, src: require('../../images/Contactme.jpeg'), category: 'logos' },
+  { id: 17, src: require('../../images/ProjectsDemo.jpeg'), category: 'logos' },
+  { id: 18, src: require('../../images/Skills.jpeg'), category: 'logos' },
+
 ];
 
 const categories = ['all', ...new Set(allImages.map(img => img.category))];

@@ -58,24 +58,22 @@ npm start
 npm run build
 ```
 ## 📸 Screenshots
-#Homepage
 
-https://github.com/obsa-sufian/Obsa-Sufian-DDU1600605/blob/main/client/src/images/Home.jpeg
+### Homepage
+![Homepage Screenshot](https://github.com/obsa-sufian/Obsa-Sufian-DDU1600605/blob/main/client/src/images/Home.jpeg)
 
-# Projects Section
+### Skills Section
+![Skills Screenshot](https://github.com/obsa-sufian/Obsa-Sufian-DDU1600605/blob/main/client/src/images/Skills.jpeg)
 
-(https://github.com/obsa-sufian/Obsa-Sufian-DDU1600605/blob/main/client/src/images/ProjectsDemo.jpeg)
+### Projects Section
+![Projects Screenshot](https://github.com/obsa-sufian/Obsa-Sufian-DDU1600605/blob/main/client/src/images/ProjectsDemo.jpeg)
 
-# Skills Section
+### Form Layouts
+![Form Layouts Screenshot](https://github.com/obsa-sufian/Obsa-Sufian-DDU1600605/blob/main/client/src/images/FormLayout.jpeg)
 
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
+### Contact Me
+![Contact Screenshot](https://github.com/obsa-sufian/Obsa-Sufian-DDU1600605/blob/main/client/src/images/Contactme.jpeg)
 
-# Form Layouts
-
-https://github.com/obsa-sufian/Obsa-Sufian-DDU1600605/blob/main/client/src/images/FormLayout.jpeg
-# Contact Me
-
-(https://github.com/obsa-sufian/Obsa-Sufian-DDU1600605/blob/main/client/src/images/Contactme.jpeg)
 ### 🎯 Purpose
 This portfolio serves as a digital resume and showcase platform for future opportunities in software development.
 
